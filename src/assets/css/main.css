@@ -97,7 +97,7 @@ hr {
     background-color: #f6a270; } }
 /********************************section portfolio****************************/
 .img-slider {
-  height: 370px; }
+  height: 310px; }
 
 .rect-case {
   stroke: #BE2525; }
@@ -162,6 +162,9 @@ footer {
   padding: 13px 0 0;
   letter-spacing: 0.1em; }
 
+.carousel-indicators {
+  bottom: -52px; }
+
 .icon-footer {
   padding: 0 14px 10px; }
 
@@ -222,6 +225,9 @@ footer {
 
   .color {
     font-size: 0.8em; }
+
+  .perfil-img {
+    border-radius: 24%; }
 
   .btn-link {
     font-size: small; } }
